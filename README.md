@@ -18,6 +18,17 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+a=input()
+b=input()
+c=a
+a=b
+b=c
+print("Swapped values are:",a,b)
+```
+## OUTPUT
+![Screenshot 2024-03-22 151459](https://github.com/MANOKARTHICK09/Swapping-two-values/assets/121785458/5f6eddc3-ef2b-4279-b5fe-b43c2c66a03a)
+
 
 
 
