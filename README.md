@@ -19,6 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
+Developed by: MANO KARTHICK S
+REGISTER NUMBER: 212222230077
 a=input()
 b=input()
 c=a
@@ -27,10 +29,7 @@ b=c
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT
-![Screenshot 2024-03-22 151459](https://github.com/MANOKARTHICK09/Swapping-two-values/assets/121785458/5f6eddc3-ef2b-4279-b5fe-b43c2c66a03a)
-
-
-
+![image](https://github.com/MANOKARTHICK09/Swapping-two-values/assets/121785458/344e9892-5b50-40d8-a82e-5e77540ba891)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
